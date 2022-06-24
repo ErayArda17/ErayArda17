@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm ErayArda17</h1>
 <h3 align="center">High School Student and Software Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erayarda17" alt="erayarda17" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/erayarda17" target="blank"><img src="https://img.shields.io/twitter/follow/erayarda17?logo=twitter&style=for-the-badge" alt="erayarda17" /></a> </p>
 
 - 📫 How to reach me **erayarda91@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/erayarda17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erayarda17" height="30" width="40" /></a>
+<a href="https://twitter.com/Arda17Eray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erayarda17" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19407798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19407798" height="30" width="40" /></a>
 <a href="https://instagram.com/erayarda_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erayarda_17" height="30" width="40" /></a>
 </p>
